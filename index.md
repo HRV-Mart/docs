@@ -30,3 +30,7 @@ Feel free to join that server
 [Join Discord Server](https://discord.gg/FrM3mrKg)
 
 [HRV-Mart Github](https://github.com/HRV-Mart)
+
+## Blogs
+
+See all blogs of HRV-Mart on [dev.to](https://dev.to/hrv-mart)
