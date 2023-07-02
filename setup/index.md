@@ -48,4 +48,4 @@ There are three ways to set it up
 docker run --name mongodb -d -v DATABASE/DIRECTORY:/data/db -p 27017:27017 mongo
 ```
 
-Here, `DATABASE/DIRECTORY` is path to the directory where you want to stor mongo db data
+Here, `DATABASE/DIRECTORY` is path to the directory where you want to store mongo db data
