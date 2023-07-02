@@ -2,6 +2,7 @@
 layout: default
 title: Setting up API-Gateway
 parent: Set-Up Project
+nav_order: 2
 has_children: false
 ---
 

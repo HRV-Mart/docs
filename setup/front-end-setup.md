@@ -2,6 +2,7 @@
 layout: default
 title: Setting up Front-end
 parent: Set-Up Project
+nav_order: 3
 has_children: false
 ---
 
