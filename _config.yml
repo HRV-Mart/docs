@@ -2,6 +2,7 @@ title: HRV-Mart Documentaion
 description: Documentation for HRV-Mart
 theme: just-the-docs
 
+baseurl: "/docs"
 url: https://hrv-mart.github.io/docs
 
 aux_links:
