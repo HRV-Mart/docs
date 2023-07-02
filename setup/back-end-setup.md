@@ -22,7 +22,7 @@ There are total seven repository which falls under `Backend` category. Repositor
 > `Backend-Auth` uses [Appwrite](https://appwrite.io/) to authenticate user.
 
 {: .note }
-> `Backend-User`,`Backend-Auth`, `Backend-Cart` and `Backend-Order` uses Kafka. In order to setup kafka, [uses this guide](/setup/#step-4-set-up-kafka)
+> `Backend-User`,`Backend-Auth`, `Backend-Cart` and `Backend-Order` uses Kafka. In order to setup kafka, [uses this guide](/docs/setup/#step-4-set-up-kafka)
 
 Steps to set up repository.
 
