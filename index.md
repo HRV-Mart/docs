@@ -25,7 +25,6 @@ Their are many ways to contribute in HRV-Mart for example,
 A discord server is made to establish a communication channel between you and other contributor of HRV-Mart.
 Feel free to join that server
 
-
 [Join Discord Server](https://discord.gg/FrM3mrKg)
 
 [HRV-Mart Github](https://github.com/HRV-Mart)
