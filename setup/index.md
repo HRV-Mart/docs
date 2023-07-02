@@ -29,7 +29,7 @@ There are two ways to set it up
 [Visit Kafka website](https://kafka.apache.org/downloads)
 In order to run kafka, you also need [Zookeeper](https://zookeeper.apache.org/).
 
-### Option-B: Use Docker
+### Option-B: Use Docker to install Kafka
 
 You mentioned guide to setup kafka with zoopeeker using docker
 [how-to-start-kafka-using-docker- by conduktor.io](https://www.conduktor.io/kafka/how-to-start-kafka-using-docker/)
@@ -38,15 +38,14 @@ You mentioned guide to setup kafka with zoopeeker using docker
 
 There are three ways to set it up
 
-### Option-A: Installing Kafka
+### Option-A: Installing Mongo-DB
 
 [Download mongodb community version](https://www.mongodb.com/download-center/community/releases)
 
-### Option-B: Use Docker
+### Option-B: Use Docker to install Mongo-FB
 
 ```cmd
 docker run --name mongodb -d -v DATABASE/DIRECTORY:/data/db -p 27017:27017 mongo
 ```
+
 Here, `DATABASE/DIRECTORY` is path to the directory where you want to stor mongo db data
-
-
