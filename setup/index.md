@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Set-Up
+title: Set-Up Project
 nav_order: 2
-has_children: false
+has_children: true
 ---
 # Project Set up
 
@@ -49,3 +49,5 @@ docker run --name mongodb -d -v DATABASE/DIRECTORY:/data/db -p 27017:27017 mongo
 ```
 
 Here, `DATABASE/DIRECTORY` is path to the directory where you want to store mongo db data
+
+After doing this basic set-up, you can proceed to the repository specific set-up
