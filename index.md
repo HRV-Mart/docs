@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Welcome
+nav_order: 1
 ---
 
-# Welcom to HRV-Mart
+# Welcome to HRV-Mart
 
 ## What is HRV-Mart?
 
