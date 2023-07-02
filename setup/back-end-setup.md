@@ -2,6 +2,7 @@
 layout: default
 title: Setting up Back-end
 parent: Set-Up Project
+nav_order: 1
 has_children: false
 ---
 
