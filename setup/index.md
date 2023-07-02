@@ -51,3 +51,7 @@ docker run --name mongodb -d -v DATABASE/DIRECTORY:/data/db -p 27017:27017 mongo
 Here, `DATABASE/DIRECTORY` is path to the directory where you want to store mongo db data
 
 After doing this basic set-up, you can proceed to the repository specific set-up
+
+### Option-C: User Mongo Atlas
+
+[MongoDB Atlas Link](https://www.mongodb.com/atlas)
