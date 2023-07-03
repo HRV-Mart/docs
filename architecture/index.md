@@ -15,4 +15,5 @@ In this section, we will see about the architecture of HRV-Mart application.
 
 In above image, you can see that their is a dependency between components. If you want to work on, let say, `Front-End` then you have to make sure that all components of `API-Gateway` and `Back-End` are working.
 
-{: .note } While running any component, you need database, Kafka and appwrite running in background.
+{: .note }
+While running any component, you need database, Kafka and appwrite running in background.
