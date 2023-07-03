@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HRV-Mart Architecture
+title: Architecture
 nav_order: 3
 has_children: true
 ---
