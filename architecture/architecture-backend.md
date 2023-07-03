@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Setting up Back-end
-parent: Set-Up Project
+title: Back-End Architecture
+parent: Architecture
 nav_order: 1
 has_children: false
 ---
 
-# Backend-Architecture
+# Back-End Architecture
 
 This section contains how backend layer works. All backend repository listed under HRV-Mart are using [Spring-Boot reactive](https://spring.io/reactive), [Kotlin](https://kotlinlang.org/) and [Gradle](https://gradle.org/).
 All backend repositories are listed below.
